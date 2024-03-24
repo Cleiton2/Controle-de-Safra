@@ -1,0 +1,6 @@
+@Controle_de_Safra_HostAddress = http://localhost:5232
+
+GET {{Controle_de_Safra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
